@@ -21,6 +21,9 @@
 ### NFT
 - https://solanart.io/
 
+### Portfolio / Analytics
+- `QuantumPools`: Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana: https://quantumpools.io/
+
 ### Explorer
 - `SolScan`: https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 - `Solona Explorer`: https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
